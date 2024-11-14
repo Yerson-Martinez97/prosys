@@ -1,0 +1,30 @@
+.message-error {
+    color: #f00;
+    display: block;
+    margin: 0px 50px;
+    padding: 20px 0;
+    background-color: #ffe0db;
+    text-align: center;
+}
+
+.message-warning {
+    display: block;
+    color: #FF9800;
+    margin: 0px 50px;
+    padding: 20px 0;
+    background-color: #ffe0db;
+    text-align: center;
+}
+
+.message-success {
+    display: block;
+    color: #65B741;
+    margin: 0px 50px;
+    padding: 20px 0;
+    background-color: #ffe0db;
+    text-align: center;
+}
+
+/* input#pwd_new:focus, input#pwd_repeat:focus {
+    border: 1px solid #f00;
+} */
